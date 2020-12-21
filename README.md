@@ -26,7 +26,7 @@ pod install
 
 ## Authors
 
-* **Andreas Nandiwardhana** - *Initial work* - [PurpleBooth](https://github.com/andreasnw)
+* **Andreas Nandiwardhana** - *Initial work* - [andreasnw](https://github.com/andreasnw)
 
 ## License
 
